@@ -1,6 +1,6 @@
 # Strizhko Ivan
 #### WEB DESIGN DEVELOPER
-![logo](photo.jpg)
+![logo](photo.JPG)
 
 ### ABOUT ME
 I'm a beginner Javascript developer. At the moment I am working in a different field of activity, studying Javascript in parallel. Since I am interested in Javascript and enjoy it, I plan to develop in this direction and in the future I plan to become a senior.
