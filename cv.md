@@ -11,7 +11,7 @@ I'm a beginner Javascript developer. At the moment I am working in a different f
 
 ### SKILLS 
 * HTML 7/10
-* JAVASCRIPT 6/10
+* JAVASCRIPT 7/10
 * PHOTOSHOP 5/10
 * CSS 7/10
 
